@@ -9,12 +9,10 @@ If this repo saved you 30 minutes of headache, consider buying me a chai! 👇
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-
 <br />
 <br />
 
-<img src="image.png" width="200" alt="UPI QR Code" />
+<img src="/public/image.png" width="200" alt="UPI QR Code" />
 
 <p><b>UPI:</b> hardikjain2030@okhdfcbank | <b>PayPal:</b> paypal.me/DhoniDevAi</p>
 </div>

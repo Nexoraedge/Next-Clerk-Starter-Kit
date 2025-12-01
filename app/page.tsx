@@ -182,13 +182,13 @@ export default function Page() {
                   <p className="text-[11px] uppercase tracking-[0.16em] text-emerald-200/90">
                     Support
                   </p>
-                  <h2 className="text-base font-semibold">Buy me a coffee</h2>
+                  <h2 className="text-base font-semibold">Buy me a Tea</h2>
                 </div>
               </div>
               <p className="text-xs md:text-sm text-emerald-50/95 mb-3">
                 If my work helped you ship faster,{" "}
                 <span className="font-medium">fuel the next build</span> with a
-                coffee or two.
+                Tea or two.
               </p>
               <div className="inline-flex items-center text-[11px] md:text-xs text-emerald-100/95">
                 Support my work
